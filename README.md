@@ -38,6 +38,11 @@ Other resources Provided:
     <img width="581" alt="model" src="https://user-images.githubusercontent.com/89390696/206885298-02747a42-15fe-45ad-acd5-4da66187596b.png">
 </p>
 
+## Demo
+
+Insert gif or link to demo
+
+[video.webm](https://www.linkedin.com/posts/vamshikollipati_codebasicsresumeprojectchallenge-powerbi-activity-7006129041787207680-E6FZ?utm_source=share&utm_medium=member_desktop)
 
 ## Overall Analysis View
 
