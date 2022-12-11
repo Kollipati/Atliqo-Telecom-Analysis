@@ -55,5 +55,17 @@ Other resources Provided:
    <img width="677" alt="telecom-3" src="https://user-images.githubusercontent.com/89390696/206885305-56f3814a-357f-4f42-a0b3-f3c1e2e5b7ee.png">
 </p>
 
+## Before And After 5G
+<p align="center">
+   <img width="680" alt="telecom-4" src="https://user-images.githubusercontent.com/89390696/206885306-0958291d-c4aa-41ac-8054-7ba3351e52b4.png">
+</p>
 
+## Before 5G
+<p align="center">
+   <img width="676" alt="telecom-5" src="https://user-images.githubusercontent.com/89390696/206885310-257fc43a-f157-4b17-8e40-deb665a8303b.png">
+</p>
 
+## After 5G
+<p align="center">
+   <img width="677" alt="telecom6" src="https://user-images.githubusercontent.com/89390696/206885311-9f2d8020-cf8e-4cf6-92b1-8c094603fecd.png">
+</p>
