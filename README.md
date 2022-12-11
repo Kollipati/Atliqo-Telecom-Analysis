@@ -28,7 +28,7 @@ Other resources Provided:
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="https://github.com/Kollipati/Atliqo-Telecom-Analysis/blob/main/Images/mockup%20img.png" width="600">
+    <img width="740" alt="mockup img" src="https://user-images.githubusercontent.com/89390696/206885296-986fda9d-a540-4c29-99f2-08f5438eac6b.png">
 </p>
 
 
