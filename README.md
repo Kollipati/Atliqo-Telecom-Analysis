@@ -35,7 +35,7 @@ Other resources Provided:
 ## Data Model
 
 <p align="center">
-    <img src="https://github.com/Kollipati/Atliqo-Telecom-Analysis/blob/main/Images/model.png" height="400">
+    <img width="581" alt="model" src="https://user-images.githubusercontent.com/89390696/206885298-02747a42-15fe-45ad-acd5-4da66187596b.png">
 </p>
 
 
@@ -48,11 +48,11 @@ Other resources Provided:
 ## Filters View
 
 <p align="center">
-    <img src="https://github.com/Kollipati/Atliqo-Telecom-Analysis/blob/main/Images/telecom-2.png" width="600">
+    <img width="675" alt="Telecom-1" src="https://user-images.githubusercontent.com/89390696/206885300-6aeda4a7-d5dc-4ec9-9d5c-0d10713f5d3a.png">
 </p>
 
 <p align="center">
-    <img src="https://github.com/Kollipati/Atliqo-Telecom-Analysis/blob/main/Images/telecom-3.png" width="600">
+    <img width="677" alt="telecom-2" src="https://user-images.githubusercontent.com/89390696/206885303-c8031a95-7ed1-46be-9dc8-1470628e8308.png">
 </p>
 
 
