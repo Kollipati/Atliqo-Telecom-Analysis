@@ -4,7 +4,7 @@ As part of the codebasics November month resume challenge, I have worked on this
 
 Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
 
-Link to [Interactive Dashboard](https://www.novypro.com/project/like-1)
+Link to [Interactive Dashboard](https://www.novypro.com/project/telecom)
 
 ## Problem statement
 
