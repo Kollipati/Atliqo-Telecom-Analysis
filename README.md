@@ -42,17 +42,17 @@ Other resources Provided:
 ## Overall Analysis View
 
 <p align="center">
-    <img src="https://github.com/Kollipati/Atliqo-Telecom-Analysis/blob/main/Images/Telecom-1.png" width="600">
+    <img width="675" alt="Telecom-1" src="https://user-images.githubusercontent.com/89390696/206885300-6aeda4a7-d5dc-4ec9-9d5c-0d10713f5d3a.png">
 </p>
 
 ## Filters View
 
 <p align="center">
-    <img width="675" alt="Telecom-1" src="https://user-images.githubusercontent.com/89390696/206885300-6aeda4a7-d5dc-4ec9-9d5c-0d10713f5d3a.png">
+     <img width="677" alt="telecom-2" src="https://user-images.githubusercontent.com/89390696/206885303-c8031a95-7ed1-46be-9dc8-1470628e8308.png">
 </p>
 
 <p align="center">
-    <img width="677" alt="telecom-2" src="https://user-images.githubusercontent.com/89390696/206885303-c8031a95-7ed1-46be-9dc8-1470628e8308.png">
+   <img width="677" alt="telecom-3" src="https://user-images.githubusercontent.com/89390696/206885305-56f3814a-357f-4f42-a0b3-f3c1e2e5b7ee.png">
 </p>
 
 
