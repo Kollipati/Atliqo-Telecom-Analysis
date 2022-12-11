@@ -6,6 +6,8 @@ Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-ch
 
 Link to [Interactive Dashboard](https://www.novypro.com/project/telecom)
 
+Link to [Demo Video](https://www.linkedin.com/posts/vamshikollipati_codebasicsresumeprojectchallenge-powerbi-activity-7006129041787207680-E6FZ?utm_source=share&utm_medium=member_desktop)
+
 ## Problem statement
 
 ## Domain:  Telecom    
@@ -38,11 +40,6 @@ Other resources Provided:
     <img width="581" alt="model" src="https://user-images.githubusercontent.com/89390696/206885298-02747a42-15fe-45ad-acd5-4da66187596b.png">
 </p>
 
-## Demo
-
-Insert gif or link to demo
-
-[video.webm](https://www.linkedin.com/posts/vamshikollipati_codebasicsresumeprojectchallenge-powerbi-activity-7006129041787207680-E6FZ?utm_source=share&utm_medium=member_desktop)
 
 ## Overall Analysis View
 
@@ -55,6 +52,7 @@ Insert gif or link to demo
 <p align="center">
      <img width="677" alt="telecom-2" src="https://user-images.githubusercontent.com/89390696/206885303-c8031a95-7ed1-46be-9dc8-1470628e8308.png">
 </p>
+
 
 <p align="center">
    <img width="677" alt="telecom-3" src="https://user-images.githubusercontent.com/89390696/206885305-56f3814a-357f-4f42-a0b3-f3c1e2e5b7ee.png">
