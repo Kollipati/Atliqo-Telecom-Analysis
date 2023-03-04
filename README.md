@@ -2,8 +2,6 @@
 
 As part of the codebasics November month resume challenge, I have worked on this analysis project.
 
-Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
-
 Link to [Interactive Dashboard](https://www.novypro.com/project/telecom)
 
 Link to [Demo Video](https://www.linkedin.com/posts/vamshikollipati_codebasicsresumeprojectchallenge-powerbi-activity-7006129041787207680-E6FZ?utm_source=share&utm_medium=member_desktop)
