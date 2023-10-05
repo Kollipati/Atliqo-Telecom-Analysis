@@ -2,7 +2,7 @@
 
 As part of the codebasics November month resume challenge, I have worked on this analysis project.
 
-Link to [Interactive Dashboard](https://www.novypro.com/project/telecom)
+Link to [Interactive Dashboard](https://www.novypro.com/project/atliqo-telecom-analysis--codebasics-challenge-dec-2022-power-bi)
 
 ## Problem statement
 
