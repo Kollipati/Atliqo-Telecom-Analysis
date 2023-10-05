@@ -4,8 +4,6 @@ As part of the codebasics November month resume challenge, I have worked on this
 
 Link to [Interactive Dashboard](https://www.novypro.com/project/telecom)
 
-Link to [Demo Video](https://www.linkedin.com/posts/vamshikollipati_codebasicsresumeprojectchallenge-powerbi-activity-7006129041787207680-E6FZ?utm_source=share&utm_medium=member_desktop)
-
 ## Problem statement
 
 ## Domain:  Telecom    
@@ -42,31 +40,25 @@ Other resources Provided:
 ## Overall Analysis View
 
 <p align="center">
-    <img width="675" alt="Telecom-1" src="https://user-images.githubusercontent.com/89390696/206885300-6aeda4a7-d5dc-4ec9-9d5c-0d10713f5d3a.png">
+    <img width="675" alt="Telecom-1" src="https://github.com/Kollipati/Atliqo-Telecom-Analysis/assets/89390696/057d084c-e531-4942-a39c-e8700340ccee">
+</p>
+
+<p align="center">
+   <img width="680" alt="telecom-4" src="https://github.com/Kollipati/Atliqo-Telecom-Analysis/assets/89390696/d662e632-2a90-4dc9-abd2-58c1d63cd850">
 </p>
 
 ## Filters View
 
 <p align="center">
-     <img width="677" alt="telecom-2" src="https://user-images.githubusercontent.com/89390696/206885303-c8031a95-7ed1-46be-9dc8-1470628e8308.png">
-</p>
-
-
-<p align="center">
-   <img width="677" alt="telecom-3" src="https://user-images.githubusercontent.com/89390696/206885305-56f3814a-357f-4f42-a0b3-f3c1e2e5b7ee.png">
-</p>
-
-## Before And After 5G
-<p align="center">
-   <img width="680" alt="telecom-4" src="https://user-images.githubusercontent.com/89390696/206885306-0958291d-c4aa-41ac-8054-7ba3351e52b4.png">
+     <img width="677" alt="telecom-2" src="https://github.com/Kollipati/Atliqo-Telecom-Analysis/assets/89390696/ae0c4360-3b8d-4cfb-a36a-45ccfe1d364e">
 </p>
 
 ## Before 5G
 <p align="center">
-   <img width="676" alt="telecom-5" src="https://user-images.githubusercontent.com/89390696/206885310-257fc43a-f157-4b17-8e40-deb665a8303b.png">
+   <img width="676" alt="telecom-5" src="https://github.com/Kollipati/Atliqo-Telecom-Analysis/assets/89390696/2d10bce3-7c1d-4a8f-acdc-c618e1549254">
 </p>
 
 ## After 5G
 <p align="center">
-   <img width="677" alt="telecom6" src="https://user-images.githubusercontent.com/89390696/206885311-9f2d8020-cf8e-4cf6-92b1-8c094603fecd.png">
+   <img width="677" alt="telecom6" src="https://github.com/Kollipati/Atliqo-Telecom-Analysis/assets/89390696/8f3f1c41-596b-47c7-a82c-5c9648b1a20d">
 </p>
